@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Revillagigedo_EA_F",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "Name": "Revillagigedo" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -115.471414564999918, 20.008630753000091 ], [ -110.078092574999914, 20.008630753000091 ], [ -110.078092574999914, 17.655233383000052 ], [ -115.471414565999908, 17.655233383000052 ], [ -115.471414564999918, 20.008630753000091 ] ] ] ] } }
+]
+}
